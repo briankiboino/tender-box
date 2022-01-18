@@ -1,0 +1,68 @@
+[
+    {
+        "CalendarName":"IT",
+        "Color":"color",
+        "Events": [
+            {
+                "id":1,
+                "date": "Sat Apr 10 2021 13:45:54 GMT-0400 (EDT)",
+                "name":"milestone 1",
+                "description":"m1 desc here"
+            }
+        ]
+    },
+    {
+        "CalendarName":"BBC",
+        "Color":"color",
+        "Events": [
+            {
+                "id":1,
+                "date": "Sat Apr 10 2021 13:45:54 GMT-0400 (EDT)",
+                "name":"milestone 1",
+                "description":"m1 desc here"
+            }
+        ]
+    },
+    {
+        "CalendarName":"Computer Science",
+        "Color":"color",
+        "Events": [
+            {
+                "id":1,
+                "date": "Sat Apr 10 2021 13:45:54 GMT-0400 (EDT)",
+                "name":"milestone 1",
+                "description":"m1 desc here"
+            },
+            {
+                "id":1,
+                "date": "Sat Apr 10 2021 13:45:54 GMT-0400 (EDT)",
+                "name":"milestone 1",
+                "description":"m1 desc here"
+            }
+        ]
+    },
+    {
+        "CalendarName":"Computer Technology",
+        "Color":"color",
+        "Events": [
+            {
+                "id":1,
+                "date": "Sat Apr 10 2021 13:45:54 GMT-0400 (EDT)",
+                "name":"milestone 1",
+                "description":"m1 desc here"
+            }
+        ]
+    },
+    {
+        "CalendarName":"Computer cience",
+        "Color":"color",
+        "Events": [
+            {
+                "id":1,
+                "date": "Sat Apr 10 2021 13:45:54 GMT-0400 (EDT)",
+                "name":"milestone 1",
+                "description":"m1 desc here"
+            }
+        ]
+    }
+]
